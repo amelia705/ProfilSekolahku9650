@@ -21,6 +21,5 @@ public class SplashScreenActivity extends AppCompatActivity {
                 finish();
             }
         }, 3000L); //3 detik
-
     }
 }
