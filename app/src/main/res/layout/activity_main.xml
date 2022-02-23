@@ -145,16 +145,16 @@
                             <ImageView
                                 android:layout_width="80dp"
                                 android:layout_height="80dp"
-                                android:onClick="ekskul"
+                                android:onClick="fasilitas"
                                 android:layout_gravity="center"
                                 android:layout_margin="10dp"
-                                android:src="@drawable/ekstrakulikuler"/>
+                                android:src="@drawable/fasilitas"/>
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:layout_gravity="center"
                                 android:gravity="center"
-                                android:text="EKSKUL"
+                                android:text="FASILITAS"
                                 android:textColor="#000"
                                 android:textSize="20dp"
                                 android:textStyle="bold"/>
@@ -185,16 +185,16 @@
                             <ImageView
                                 android:layout_width="80dp"
                                 android:layout_height="80dp"
-                                android:onClick="fasilitas"
+                                android:onClick="perpus"
                                 android:layout_gravity="center"
                                 android:layout_margin="10dp"
-                                android:src="@drawable/fasilitas"/>
+                                android:src="@drawable/perpus"/>
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:layout_gravity="center"
                                 android:gravity="center"
-                                android:text="FASILITAS"
+                                android:text="E-PERPUS"
                                 android:textColor="#000"
                                 android:textSize="20dp"
                                 android:textStyle="bold"/>
@@ -234,16 +234,16 @@
                             <ImageView
                                 android:layout_width="80dp"
                                 android:layout_height="80dp"
-                                android:onClick="perpus"
+                                android:onClick="eskul"
                                 android:layout_gravity="center"
                                 android:layout_margin="10dp"
-                                android:src="@drawable/perpus"/>
+                                android:src="@drawable/ekstrakulikuler"/>
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:layout_gravity="center"
                                 android:gravity="center"
-                                android:text="E-PERPUS"
+                                android:text="EKSKUL"
                                 android:textColor="#000"
                                 android:textSize="20dp"
                                 android:textStyle="bold"/>
@@ -271,13 +271,15 @@
                             android:layout_height="match_parent"
                             android:gravity="center"
                             android:orientation="vertical">
+
                             <ImageView
                                 android:layout_width="80dp"
                                 android:layout_height="80dp"
-                                android:onClick="galeri"
                                 android:layout_gravity="center"
                                 android:layout_margin="10dp"
-                                android:src="@drawable/galeri"/>
+                                android:onClick="galeri"
+                                android:src="@drawable/galeri" />
+
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
@@ -286,7 +288,7 @@
                                 android:text="GALERI"
                                 android:textColor="#000"
                                 android:textSize="20dp"
-                                android:textStyle="bold"/>
+                                android:textStyle="bold" />
                         </LinearLayout>
                     </androidx.cardview.widget.CardView>
 
