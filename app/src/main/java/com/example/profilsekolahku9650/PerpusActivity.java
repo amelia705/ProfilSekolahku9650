@@ -6,10 +6,6 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-import com.example.profilsekolahku9650.Buku7Activity;
-import com.example.profilsekolahku9650.Buku8Activity;
-import com.example.profilsekolahku9650.Buku9Activity;
-import com.example.profilsekolahku9650.SliderAdapter;
 import com.smarteist.autoimageslider.IndicatorView.animation.type.IndicatorAnimationType;
 import com.smarteist.autoimageslider.SliderAnimations;
 import com.smarteist.autoimageslider.SliderView;
