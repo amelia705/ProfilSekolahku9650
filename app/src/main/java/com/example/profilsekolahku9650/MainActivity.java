@@ -7,12 +7,6 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-import com.example.profilsekolahku9650.FasilitasActivity;
-import com.example.profilsekolahku9650.GaleriActivity;
-import com.example.profilsekolahku9650.GuruActivity;
-import com.example.profilsekolahku9650.PerpusActivity;
-import com.example.profilsekolahku9650.ProfilActivity;
-
 
 public class MainActivity extends AppCompatActivity {
 
