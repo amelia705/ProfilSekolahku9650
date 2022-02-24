@@ -30,13 +30,13 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:scaleType="fitXY"
-                        android:src="@drawable/header"/>
+                        android:src="@drawable/headersmk"/>
 
                     <ImageView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:scaleType="fitXY"
-                        android:src="@drawable/header1"/>
+                        android:src="@drawable/headersmk2"/>
 
                     <ImageView
                         android:layout_width="match_parent"
