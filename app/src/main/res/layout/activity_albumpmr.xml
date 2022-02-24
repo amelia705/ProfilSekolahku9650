@@ -6,6 +6,10 @@
     android:layout_height="match_parent"
     tools:context=".AlbumpmrActivity">
 
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -31,7 +35,7 @@
                         android:layout_width="400dp"
                         android:layout_height="wrap_content"
                         android:adjustViewBounds="true"
-                        android:src="@drawable/pmr1"/>
+                        android:src="@drawable/kartini"/>
 
                     <RelativeLayout
                         android:layout_width="7dp"
@@ -61,7 +65,7 @@
                     android:layout_marginRight="8dp"
                     android:layout_marginTop="5dp"
                     android:textColor="@color/black"
-                    android:text="PELANTIKAN PMR MADYA"/>
+                    android:text="Perayaan Hari Kartini"/>
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -71,10 +75,13 @@
                     android:layout_marginRight="8dp"
                     android:layout_marginTop="20dp"
                     android:textColor="@color/black"
-                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque diam volutpat commodo sed. Leo a diam sollicitudin tempor id eu nisl nunc. Sed nisi lacus sed viverra. Tristique senectus et netus et. Elit at imperdiet dui accumsan sit amet. Odio facilisis mauris sit amet massa vitae tortor condimentum lacinia. Tellus id interdum velit laoreet id donec ultrices. Massa eget egestas purus viverra accumsan. Turpis cursus in hac habitasse platea dictumst quisque sagittis."/>
+                    android:text="Hari Kartini adalah hari kelahiran Pahlawan Kemerdekaan Nasional Raden Ayu Kartini (RA Kartini) pada tanggal 21 April setiap tahun sejak tahun 1964 di peringati oleh seluruh bangsa Indonesia. Tujuan peringatan Hari kartini adalah untuk memperingati dan menghormati perjuangan R.A. Kartini untuk mewujudkan kesetaraan kesempatan antara laki-laki dan perempuan di era modern yang secara khusus terutama dalam bidang pendidikan dan secara umum kesetaraan gender di semua bidang.
+Perayaan ini selayaknya mengandung makna mendalam mengenai emansipasi perempuan dan mengingatkan seluruh lapisan masyarakat Indonesia untuk terus konsisten memperjuangkan keadilan gender. Peringatan Hari Kartini ditetapkan secara resmi melalui Keputusan Presiden Republik Indonesia No.108 Tahun 1964 yang ditandatangani pada tanggal 2 Mei 1964 yang didalamnya juga memuat penetapan Kartini sebagai Pahlawan Kemerdekaan Nasional.
+R.A Kartini dikenal sebagai tokoh emansipasi wanita, yang menentang keras pasifnya posisi wanita di Indonesia pada sistem masyarakat, keluarga, dan pemerintahan. Pendapat utama beliau adalah bahwa perempuan juga memiliki hak dan kapabilitas yang sama untuk melakukan apa yang saat itu hanya bisa dilakukan laki-laki.
+Menurut Ketua KPU Kota Malang, Aminah Asminingtyas bepersan kepada para perempuan, baik yang bekerja maupan yang mengabdikan diri untuk keluarga mari kita menjadi Kartini-Kartini yang bermanfaat untuk keluarga, untuk kebaikan, dan untuk lingkungan. Sekecil apapun yang kita lakukan yang bermanfaat tentu akan sangat berguna bagi sekeliling kita"/>
 
             </androidx.cardview.widget.CardView>
-
         </LinearLayout>
     </LinearLayout>
+    </ScrollView>
 </RelativeLayout>

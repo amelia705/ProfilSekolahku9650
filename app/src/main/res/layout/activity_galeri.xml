@@ -81,7 +81,7 @@
                             android:layout_gravity="center"
                             android:layout_marginRight="10dp"
                             android:layout_marginTop="10dp"
-                            android:src="@drawable/albumhutri">
+                            android:src="@drawable/logostudytour">
 
                         </ImageView>
 
@@ -90,7 +90,8 @@
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
                             android:layout_marginLeft="50dp"
-                            android:text="ALBUM KEGIATAN HUT RI">
+                            android:textStyle="bold"
+                            android:text="ALBUM KEGIATAN STUDY TOUR">
 
                         </TextView>
 
@@ -138,6 +139,7 @@
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
                             android:layout_marginLeft="50dp"
+                            android:textStyle="bold"
                             android:text="ALBUM KEGIATAN PRAMUKA">
 
                         </TextView>
@@ -177,7 +179,7 @@
                             android:layout_gravity="center"
                             android:layout_marginRight="10dp"
                             android:layout_marginTop="10dp"
-                            android:src="@drawable/albumpmr">
+                            android:src="@drawable/logokartini">
 
                         </ImageView>
 
@@ -186,23 +188,14 @@
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
                             android:layout_marginLeft="50dp"
-                            android:text="ALBUM KEGIATAN PMR">
+                            android:textStyle="bold"
+                            android:text="ALBUM KEGIATAN KARTINI">
 
                         </TextView>
-
                     </LinearLayout>
-
-
                 </androidx.cardview.widget.CardView>
                 <!--                            penutup menu 3-->
-
-
-
-
             </GridLayout>
-
         </LinearLayout>
     </ScrollView>
-
-
 </LinearLayout>

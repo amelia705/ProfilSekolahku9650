@@ -256,7 +256,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
-                    android:src="@drawable/perpus2" />
+                    android:src="@drawable/perpus" />
 
             </androidx.cardview.widget.CardView>
 
@@ -277,7 +277,7 @@
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp"
                     android:layout_marginRight="5dp"
-                    android:text="PERPUSTAKAAN"
+                    android:text="Perpustakaan"
                     android:textColor="@color/black"
                     android:textSize="10sp"
                     android:textStyle="bold" />

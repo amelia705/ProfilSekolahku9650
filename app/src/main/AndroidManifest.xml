@@ -10,13 +10,22 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ProfilSekolahku9650">
         <activity
+            android:name=".BulutangkisActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MusikActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LariActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="false" />
         <activity
             android:name=".FasilitasActivity"
             android:exported="false" />
         <activity
-            android:name=".ProfilActivity"
+            android:name=".FasilitasActivity"
             android:exported="false" />
         <activity
             android:name=".EkskulActivity"
