@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context=".MainActivity"
-    android:background="@color/purple_200">
+    android:background="@color/black">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -16,16 +16,34 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical">
-            <!--            Header-->
+
             <RelativeLayout
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content">
+                android:layout_height="188dp">
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="210dp"
-                    android:scaleType="fitXY"
-                    android:src="@drawable/header" />
+                <ViewFlipper
+                    android:id="@+id/viewFlipper"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/header"/>
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/header1"/>
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/header2"/>
+                </ViewFlipper>
             </RelativeLayout>
             <!--            Header-->
 
@@ -237,7 +255,7 @@
                                 android:onClick="eskul"
                                 android:layout_gravity="center"
                                 android:layout_margin="10dp"
-                                android:src="@drawable/ekstrakulikuler"/>
+                                android:src="@drawable/extra"/>
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
@@ -278,7 +296,7 @@
                                 android:layout_gravity="center"
                                 android:layout_margin="10dp"
                                 android:onClick="galeri"
-                                android:src="@drawable/galeri" />
+                                android:src="@drawable/galery" />
 
                             <TextView
                                 android:layout_width="wrap_content"
