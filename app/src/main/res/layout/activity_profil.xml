@@ -273,10 +273,20 @@
                             android:layout_marginRight="12dp"
                             android:textSize="12sp"
                             android:textStyle="bold"
-                            android:text="VISI : SMK YPT TERDEPAN DALAM MENYIAPKAN "
+                            android:text="VISI : SMK YPT TERDEPAN DALAM MENYIAPKAN TENAGA KERJA TERAMPIL, BERKUALITAS, BERIMAN DAN BERTAKWA"
                             android:textColor="#000"/>
 
-
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:layout_marginRight="12dp"
+                            android:textSize="12sp"
+                            android:textStyle="bold"
+                            android:text="MISI : a.	Melatih dan mengembangkan SDM yang terampil dan mandiri.
+                            b.Mendidik dalam rangka menyiapkan tenaga kerja yang terampil, berkualitas berbekal iman dan takwa.
+                            c.Mempertahankan kepercayaan masyarakat dalam mencetak mutu tamatan yang berkualitas sesuai kebutuhan dunia usaha dan Industry."
+                            android:textColor="#000"/>
 
                     </LinearLayout>
 
