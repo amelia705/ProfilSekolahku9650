@@ -121,7 +121,7 @@
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="20dp"
                     android:layout_marginRight="5dp"
-                    android:text="Terdapat 4 ruang Lab Komputer"
+                    android:text="Terdapat 4 ruang Lab Komputer."
                     android:textAlignment="center"
                     android:textColor="@color/black"
                     android:textSize="10sp" />
