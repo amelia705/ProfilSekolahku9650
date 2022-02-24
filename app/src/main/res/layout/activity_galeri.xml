@@ -55,7 +55,7 @@
 
                 <!--                            pembuka menu 1-->
                 <androidx.cardview.widget.CardView
-                    android:onClick="albumhutri"
+                    android:onClick="albumkegiatanstudytour"
                     android:layout_width="150dp"
                     android:layout_height="150dp"
                     android:layout_rowWeight="1"
@@ -153,7 +153,7 @@
 
                 <!--                            pembuka menu 3-->
                 <androidx.cardview.widget.CardView
-                    android:onClick="albumpmr"
+                    android:onClick="albumkegiatankartini"
                     android:layout_width="150dp"
                     android:layout_height="150dp"
                     android:layout_rowWeight="1"
