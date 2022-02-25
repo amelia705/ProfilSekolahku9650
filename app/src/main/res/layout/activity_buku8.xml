@@ -112,7 +112,7 @@
                                 android:layout_weight="1"
                                 android:adjustViewBounds="true"
                                 android:cropToPadding="true"
-                                android:src="@drawable/mtk8" />
+                                android:src="@drawable/indo8" />
 
 
                             <TextView
@@ -151,7 +151,7 @@
                                 android:layout_weight="1"
                                 android:adjustViewBounds="true"
                                 android:cropToPadding="true"
-                                android:src="@drawable/mtk8" />
+                                android:src="@drawable/ing8" />
 
 
                             <TextView
@@ -329,7 +329,7 @@
                                 android:layout_weight="1"
                                 android:adjustViewBounds="true"
                                 android:cropToPadding="true"
-                                android:src="@drawable/mtk8" />
+                                android:src="@drawable/indo8" />
 
 
                             <TextView
@@ -368,7 +368,7 @@
                                 android:layout_weight="1"
                                 android:adjustViewBounds="true"
                                 android:cropToPadding="true"
-                                android:src="@drawable/mtk8" />
+                                android:src="@drawable/ing8" />
 
 
                             <TextView
