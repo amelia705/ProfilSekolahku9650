@@ -62,10 +62,12 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
-                    android:layout_marginLeft="8dp"
-                    android:layout_marginRight="8dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
                     android:layout_marginTop="5dp"
-                    android:textColor="@color/black"
+                    android:textColor="#000"
+                    android:textSize="10sp"
+                    android:textStyle="bold"
                     android:text="Perayaan Hari Kartini"/>
 
                 <TextView
