@@ -115,7 +115,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="Kaori Mizayozo"
+                        android:text="Kaori Mizayono"
                         android:textColor="#000"
                         android:textSize="20sp" />
 

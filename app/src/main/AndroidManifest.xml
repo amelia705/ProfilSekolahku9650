@@ -73,5 +73,4 @@
             android:name=".ProfilActivity"
             android:exported="false" />
     </application>
-
 </manifest>
